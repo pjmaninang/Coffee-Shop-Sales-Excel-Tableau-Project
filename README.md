@@ -13,11 +13,14 @@ Through cleaning and aggregating data in Excel Power Query, as well creating a v
 
 An interactive Tableau dashboard can be viewed and downloaded [here](https://public.tableau.com/app/profile/pj.maninang/viz/CoffeeShopDashboard_17530521998800/SalesDashboard)
 
+Cleaned and aggregated excel file can be downloaded [here](https://github.com/pjmaninang/Coffee-Shop-Sales-Excel-Tableau-Project/blob/main/Power%20Query%20Cleaned%20Data.xlsx)
+
 The original dataset can be found and downloaded [here](https://www.kaggle.com/datasets/agungpambudi/trends-product-coffee-shop-sales-revenue-dataset)
 
 ## Data Structure
 
-
+Maven Roaster's transactional data consisted of 1 transaction table with with a total row count of 149,117 records.
+![Table](
 
 ## Executive Summary
 
