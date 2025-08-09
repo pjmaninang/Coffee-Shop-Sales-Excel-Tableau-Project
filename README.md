@@ -20,7 +20,7 @@ The original dataset can be found and downloaded [here](https://www.kaggle.com/d
 ## Data Structure
 
 Maven Roaster's transactional data consisted of 1 transaction table with with a total row count of 149,117 records.
-![Table](
+![Table](https://github.com/pjmaninang/Coffee-Shop-Sales-Excel-Tableau-Project/blob/main/Table.png?raw=true)
 
 ## Executive Summary
 
