@@ -7,6 +7,7 @@ Maven Roasters, a fictional coffee shop with three store locations in New York, 
 The company has provided a substantial amount of transactional data from January 2023 - June 2023 based on product offerings amongst the three different locations. This project analyzes and visualizes this transactional data in order to uncover critical insights that will help to improve Maven Roaster's success.
 
 
+An interactive Tableau dashboard can be viewed and downloaded [here](https://public.tableau.com/app/profile/pj.maninang/viz/CoffeeShopDashboard_17530521998800/SalesDashboard)
 
 The original dataset can be found and downloaded [here](https://www.kaggle.com/datasets/agungpambudi/trends-product-coffee-shop-sales-revenue-dataset)
 
