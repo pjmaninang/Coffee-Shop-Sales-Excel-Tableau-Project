@@ -28,6 +28,10 @@ Maven Roaster's transactional data consisted of 1 transaction table with with a 
 
 ## Findings and Insights
 
+### Sales and Revenue Trends
+
+### Product Performance and Profitability
+
 ## Recommendations
 
 ## Limitations
