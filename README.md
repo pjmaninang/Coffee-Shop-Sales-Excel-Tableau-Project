@@ -1,3 +1,4 @@
+![banner](https://github.com/pjmaninang/Coffee-Shop-Sales-Excel-Tableau-Project/blob/main/banner.jpg?raw=true)
 # Coffee-Shop-Sales-Excel-Tableau-Project
 
 ## Project Overview
