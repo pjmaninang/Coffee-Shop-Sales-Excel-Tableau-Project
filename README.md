@@ -56,3 +56,6 @@ Below is an overview of the top of the interactive Tableau dashboard:
 - For consistently low-revenue items such as Green Beans, Green Tea, Organic Chocolate, and Packaged Chocolate, potentially test different product strategies such as short-term promotions or even seasonal roations to assess the potential of these products, and discontinue offerings that fail to meet minimum sales or profitability benchmarks
 
 ## Limitations
+
+- The dataset only spans January to June 2023, restricting the ability to perform true year-over-year comparisons or assess long-term seasonal patterns. This also limits forecasting accuracy for future performance
+- Although product-level revenue and quantity sold are available, full cost data for every item is not provided, making it impossible to calculate precise profit margins for all products
