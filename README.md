@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Maven Roasters, a fictional coffee shop with three store locations in New York, is wanting to analyze it's sales and revenue data from the first half of the year in 2023. 
+Maven Roasters, a fictional coffee shop with three store locations in New York, is wanting to analyze its sales and revenue data from the first half of the year in 2023. 
 
 The company has provided a substantial amount of transactional data from January 2023 - June 2023 based on product offerings amongst the three different locations. This project analyzes and visualizes this transactional data in order to uncover critical insights that will help to improve Maven Roaster's success.
 
@@ -20,7 +20,7 @@ The original dataset can be found and downloaded [here](https://www.kaggle.com/d
 
 ## Data Structure
 
-Maven Roaster's transactional data consisted of 1 transaction table with with a total row count of 149,117 records.
+Maven Roaster's transactional data consisted of 1 transaction table with a total row count of 149,117 records.
 ![Table](https://github.com/pjmaninang/Coffee-Shop-Sales-Excel-Tableau-Project/blob/main/Table.png?raw=true)
 
 ## Executive Summary
@@ -54,7 +54,7 @@ Below is an overview of the top of the interactive Tableau dashboard:
 - Continue to prioritize Coffee and Tea offerings—especially high-margin leaders like Barista Espresso—through prominent menu placement, upselling strategies, and inventory optimization to sustain profitability
 - While 8 AM–11 AM remains the dominant revenue window, implement targeted promotions, loyalty rewards, or bundled offers in the afternoon and evening—particularly for Hell’s Kitchen and Lower Manhattan—to extend customer engagement beyond morning peaks
 - Given the low return of approximately $3,000 in total revenue at 8:00 PM, evaluate the cost-effectiveness of extended hours for Hell’s Kitchen and Lower Manhattan. Consider either adjusting closing times or introducing evening-specific draws such as live events, dessert specials, or limited-edition beverages to stimulate demand
-- For consistently low-revenue items such as Green Beans, Green Tea, Organic Chocolate, and Packaged Chocolate, potentially test different product strategies such as short-term promotions or even seasonal roations to assess the potential of these products, and discontinue offerings that fail to meet minimum sales or profitability benchmarks
+- For consistently low-revenue items such as Green Beans, Green Tea, Organic Chocolate, and Packaged Chocolate, potentially test different product strategies such as short-term promotions or even seasonal rotations to assess the potential of these products, and discontinue offerings that fail to meet minimum sales or profitability benchmarks
 
 ## Limitations
 
